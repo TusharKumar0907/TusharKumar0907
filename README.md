@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Machine Learning, Web development**
 
 - 📫 How to reach me **tusharsdekumar@gmail.com**
 
