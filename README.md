@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar_kumar1" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_kumar1?logo=twitter&style=for-the-badge" alt="tushar_kumar1" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, Backend Development, Frontend Development**
+- 💬 **Full Stack Developer**
 
 - 📫 How to reach me **tusharsdekumar@gmail.com**
 
